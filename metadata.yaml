@@ -1,11 +1,16 @@
 _repo: The-Apiary-or-Bees-bee-hives-and-bee-culture-1878-being-a-familiar-account-of-the-habits-of-b__68897
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68897-h/images/cover.png
 creator:
   author:
     agent_name: Neighbor, Alfred
     gutenberg_agent_id: '54688'
     url: http://www.gutenberg.org/2009/agents/54688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68897#The-Apiary-or-Bees-bee-hives-and-bee-culture-1878-being-a-familiar-account-of-the-habits-of-b_
 gutenberg_issued: '2022-09-02'
 identifiers:
   gutenberg: '68897'
